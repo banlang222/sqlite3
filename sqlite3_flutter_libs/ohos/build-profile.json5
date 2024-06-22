@@ -1,0 +1,15 @@
+{
+  "apiType": "stageMode",
+  "buildOption": {
+    "externalNativeOptions": {
+      "path": "src/CMakeLists.txt",
+      "arguments": "-DPYTHON_EXECUTABLE=/usr/local/bin/python3",
+      "cppFlags": "",
+    }
+  },
+  "targets": [
+    {
+      "name": "default"
+    }
+  ]
+}
