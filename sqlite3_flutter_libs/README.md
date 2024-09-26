@@ -1,5 +1,7 @@
 # sqlite3_flutter_libs
 
+增加对ohos平台的支持
+
 This package intentionally contains no Dart code. Flutter apps depending on this package will
 contain native `sqlite3` libraries on Android, iOS, macOS, Linux and Windows.
 

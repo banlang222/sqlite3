@@ -32,9 +32,13 @@ dependencies:
     sdk: flutter
 
   sqflite_common_ffi:
-    path: ../sqflite_common_ffi
+    git:
+      url: https://github.com/banlang222/sqlite3.git
+      path: sqflite_common_ffi
   sqlite3_flutter_libs:
-    path: ../sqlite3_flutter_libs
+    git:
+      url: https://github.com/banlang222/sqlite3.git
+      path: sqlite3_flutter_libs
 
   path_provider:
     git:
